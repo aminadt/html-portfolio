@@ -38,7 +38,7 @@ div.contenitore{
     width:39%;
     background-color: #c24c7f;
     float: left; clear: right;
-    text-align: left;
+    text-align: center;
     text-justify: left;
     list-style: none;
     }
@@ -82,7 +82,7 @@ body{
 }.a{
     text-align: center;
     width: 50%;
-    float: right; 
+    float: left; 
 
 }
 .b{
@@ -93,8 +93,8 @@ body{
 }
 
 div.interessi{
-    width: 100%;
-    float: none;
+    width: 70%;
+   
     text-align: center;
 }
 
