@@ -1,0 +1,55 @@
+h1{
+    color:#0d0106;
+    text-align: center;
+    }
+ h2{
+    color:#c24c7f;
+     text-align: center;
+    }
+
+ div.menu{
+        text-align: center;
+    }
+
+ h3{
+     color:black;
+     text-align: center;
+    }
+    
+    div.contenitore{
+        margin-inline:  #c24c7f;
+        padding-block: #c24c7f ;
+        background-color: #d6cbd0;
+        float: left; clear: right;
+        text-align: center; 
+        text-justify: left;
+        list-style: none;
+        }
+    
+    .linea{
+    border: 2px solid #f39dc2;
+    width:40%;
+    }
+
+    li{
+
+        list-style-type:none;
+    }
+    div.edu{
+        text-align: center;
+    }
+
+    div.contenitorexy{
+        text-align: center;
+    }
+    div.contenitoreab{
+        text-align: center;
+    }
+    hr{
+        border: 2px solid #c24c7f;
+         width:40%;
+         }
+    div.info{
+        text-align: center;
+
+    }

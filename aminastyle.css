@@ -1,0 +1,101 @@
+h1{
+    color:#0d0106;
+    text-align: center;
+    }
+ h2{
+    color:black;
+     text-align: center;
+      }
+ h3{
+     color:black;
+     text-align: center;
+    }
+    div.menu{
+        height: 50%;
+        width: auto;
+        text-align: center;
+    }
+    
+    .linea{
+    border: 2px solid #f39dc2;
+    width:40%;
+    }
+    
+div.border{
+    width:60%;
+    float:right;
+    border: 2px solid black;
+    }
+.foto{
+    width: 95%;
+    align-content: center;
+    margin-left: 2%;
+    }
+ div.indirizzi{
+        text-align: center;
+        }
+div.contenitore{
+    width:39%;
+    background-color: #c24c7f;
+    float: left; clear: right;
+    text-align: left;
+    text-justify: left;
+    list-style: none;
+    }
+   
+ div.contenitorexy{
+        width:100%;
+        text-align: center;
+        }
+
+ .prima{
+        text-align: center;
+    }
+.edu{
+        text-align: center;
+        }
+.flex{
+    display: flex;
+    align-items:baseline;
+    justify-content: center;
+    }
+li{
+margin:0;
+    padding: 0;
+    list-style-type:none;
+}
+hr{
+   border: 2px solid #c24c7f;
+    width:40%;
+    }
+body{
+   padding:0;
+    margin:0;
+    }
+.x{
+    width: 45%;
+    float: left; 
+}
+.y{
+    width: 45%;
+    float: left; 
+}.a{
+    text-align: center;
+    width: 50%;
+    float: right; 
+
+}
+.b{
+    text-align: center;
+    width: 50%;
+    float: right; 
+
+}
+
+div.interessi{
+    width: 100%;
+    float: none;
+    text-align: center;
+}
+
+
